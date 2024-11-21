@@ -10,5 +10,5 @@ PG Life is a web application designed to streamline the process of finding suita
 - **Detailed PG Listings:** Includes price, amenities, location, and contact details.
 - **Search and Filter Options:** Helps users find accommodations based on specific preferences like budget, location, and amenities.
 - **Responsive Design:** Fully functional on both desktop and mobile devices.
-- **Interactive Map Integration (if applicable):** View PGs on a map for
+
 
